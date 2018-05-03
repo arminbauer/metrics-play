@@ -8,3 +8,4 @@ logs/
 /.cache-main
 /.cache-tests
 .settings/
+metrics-play.iml
